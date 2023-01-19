@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LinkNode
+comment0.text=\r\n\ This\ is\ a\ class\ that\ enables\ the\ connection\ of\ one\r\n\ object\ to\ another\ in\ a\ list.\r\n\ \r\n\ Byt\ Emmanuel\ Okala\ Uduma\r\n\ \r\n
+comment1.params=object\ next
+comment1.target=LinkNode(java.lang.Object,\ LinkNode)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LinkNode\r\n
+numComments=2

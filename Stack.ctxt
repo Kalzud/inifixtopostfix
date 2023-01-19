@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\r\n\ This\ is\ the\ stack\ interface\r\n\ Emmanuel\ Okala\ Uduma\r\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment3.params=object
+comment3.target=void\ push(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ pop()
+numComments=5
